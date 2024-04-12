@@ -16,6 +16,8 @@ Tools
 ![icons8-css3-64](https://github.com/KevinPaizRamos/KevinPaizRamos/assets/140773589/7c46f6f1-e7e2-416e-8d64-2b9350cc3dc5)
 ![icons8-html-5-64](https://github.com/KevinPaizRamos/KevinPaizRamos/assets/140773589/891ac4ba-9a01-4a34-9567-355f5d09d51c)
 ![icons8-javascript-70](https://github.com/KevinPaizRamos/KevinPaizRamos/assets/140773589/ca3ac9c3-4c73-4d03-9f0d-de8f0f554ad3)
+![icons8-intellij-idea-64](https://github.com/KevinPaizRamos/KevinPaizRamos/assets/140773589/68481d2e-a66a-4d74-9f5a-e150718281f5)
+![icons8-android-studio-70](https://github.com/KevinPaizRamos/KevinPaizRamos/assets/140773589/48686a3a-5689-49ca-981c-386f82facc41)
 
 <!---
 KevinPaizRamos/KevinPaizRamos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
