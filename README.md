@@ -3,7 +3,7 @@
 
 - 👋 Hello, My name is Kevin Paiz Ramos. I'm Senior in Computer Science
 - 👀 I’m interested in Software Engineering, Android Development, Machine Learning
-- 🌱 I’m currently learning Androd Development
+- 🌱 I’m currently learning Android Development
 - 📫 How to reach me [...](https://www.linkedin.com/in/kevinpaiz/)
 
 
