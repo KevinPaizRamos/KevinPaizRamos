@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me [...](https://www.linkedin.com/in/kevinpaiz/)
 
+<br>
 
 <!---
 KevinPaizRamos/KevinPaizRamos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
