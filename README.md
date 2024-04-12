@@ -7,7 +7,10 @@
 - 📫 How to reach me [...](https://www.linkedin.com/in/kevinpaiz/)
 
 ---
+Tools
 
+![icons8-java-64](https://github.com/KevinPaizRamos/KevinPaizRamos/assets/140773589/f44f6514-a504-4276-9d84-3d570dcdc2ae)
+![icons8-python-64](https://github.com/KevinPaizRamos/KevinPaizRamos/assets/140773589/e35c9f66-42df-4957-b608-470494a68eb6)
 
 <!---
 KevinPaizRamos/KevinPaizRamos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
