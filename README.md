@@ -1,10 +1,10 @@
 
 ![github-header-image](https://github.com/KevinPaizRamos/KevinPaizRamos/assets/140773589/cd9350f4-c0c6-473b-89d2-68ad4538d364)
 
-- 👋 Hello, My name is Kevin Paiz Ramos. I'm Senior in Computer Science
+- 👋 Hello, My name is Kevin Paiz Ramos.
 - 👀 I’m interested in Software Engineering, Android Development, Machine Learning
 - 🌱 I’m currently learning Android Development
-- 📫 How to reach me [...](https://www.linkedin.com/in/kevinpaiz/)
+- 📫 How to reach me (https://www.linkedin.com/in/kevinpaiz/)
 
 ---
 Tools
