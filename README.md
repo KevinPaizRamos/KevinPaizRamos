@@ -1,5 +1,5 @@
 
-![github-header-image]([https://github.com/KevinPaizRamos/KevinPaizRamos/assets/140773589/cd9350f4-c0c6-473b-89d2-68ad4538d364])
+![github-header-image](https://github.com/KevinPaizRamos/KevinPaizRamos/blob/main/github-header-image%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Kevin Paiz Ramos</h1>
 <h3 align="center">A passionate Full-Stack developer from New York</h3>
