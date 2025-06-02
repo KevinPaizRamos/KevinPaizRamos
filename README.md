@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Paiz Ramos</h1>
 <h3 align="center">A passionate Full-Stack developer from New York</h3>
 
-- 🔭 I’m currently working on [GameSpace](https://github.com/AaronScott2025/SeniorProject)
+- 🔭 I’m currently working on [Spring Boot Learning][]
 
 - 🌱 I’m currently learning **AI and Machine Learning, Web development, Mobile Development**
 
